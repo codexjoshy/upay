@@ -21,7 +21,7 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
-    "build": "cp src/* dist/"
+    
   },
   "eslintConfig": {
     "extends": [
