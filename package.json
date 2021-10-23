@@ -1,6 +1,6 @@
 {
   "name": "upayapp",
-  "version": "0.1.0",
+  "version": "1.0",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.6.2",
@@ -21,10 +21,7 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "build": "cp src/* dist/"
   },
   "eslintConfig": {
     "extends": [
